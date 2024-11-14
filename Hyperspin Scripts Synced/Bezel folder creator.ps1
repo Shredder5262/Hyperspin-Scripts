@@ -9,9 +9,9 @@
 
 #############################################################################
 #Variables
-$Sourcefolder = 
-$Blankfolder = 
-$inifile = 
+$Sourcefolder = {Source Folder Path}
+$Blankfolder = {Destination folder path}
+$inifile = {ini file path to be copied}
 
 #############################################################################
 
