@@ -1,11 +1,18 @@
+#############################################################################
+#Description: This script is designed to Copy all bezel files from a source Folder
+#to a destination folder and also copy a declared .ini file to each folder as many
+#times as each bezel that exists in the subfolder.
+#Example: pacman>file1.png file1.ini,file2.png file2.ini,file3.png file3.ini, etc...
+#Author: Andrew Sutcliffe
+#Version: 0.00.1
+#Date: 11/14/2024
 
-
-
+#############################################################################
+#Variables
 $Sourcefolder = 
 $Blankfolder = 
 $inifile = 
 
-#############################################################################
 #############################################################################
 
 #Make a unique list of folder names
