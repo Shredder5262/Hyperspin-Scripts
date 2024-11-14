@@ -10,8 +10,8 @@
 $Systemxmlname = "Atlus"
 
 #Get xml list 
-$xmlContent = Get-Content -Path "D:\HyperspinMasterbuild\Hyperspin\Databases\MAME\$Systemxmlname.xml"
-$Newfolderdestination = "H:\RocketLauncher\Media\Bezels\Taito Classics\Folderlist\"
+$xmlContent = Get-Content -Path "path to xml\$Systemxmlname.xml"
+$Newfolderdestination = "destination folder list"
 ###################################################################################
 #Read the XML
 # Cast the content as an XML object
